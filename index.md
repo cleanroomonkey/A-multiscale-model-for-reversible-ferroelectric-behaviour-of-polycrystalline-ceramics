@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+### A multiscale model for reversible ferroelectric behaviour of polycrystalline ceramics
+A multiscale model for the behaviour of ferroelectric polycrystalline materials under electro-mechanical loading is proposed. It is based on an energetic description of the equilibrium at the single crystal scale using a statistical estimate of the ferroelectric domain structure. A self-consistent scheme is then used to establish the behaviour of polycrystalline materials. The approach is anhysteretic but hysteresis effects can be added afterwards so as to obtain butterfly ferroelectric loops. It is applied to a tetragonal Lead Zirconate Titanate (PZT). The model allows the investigation of crystallographic texture effects on the overall behaviour and provides an estimate of internal stresses within the material. By way of an example a {100} fibre texture is predicted to generate as much as 150% more longitudinal strain and 33% more electric induction at 1 MV/m compared to an isotropic polycrystal. ?? 2014 The Authors. Published by Elsevier Ltd.
 
-You can use the [editor on GitHub](https://github.com/cleanroomonkey/example.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cleanroomonkey/example.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
